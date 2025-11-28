@@ -1,4 +1,4 @@
-# temperature-converter
+# OIBSIP-temperature-converter
 task 3-Oasis Infobytes: temperature converter
 
 📌 Project Overview
@@ -34,7 +34,7 @@ Celsius = (Fahrenheit − 32) × 5/9
 
 Clone or download the repository:
 
-git clone https://github.com/anushka-999-code/temperature-converter.git
+git clone https://github.com/anushka-999-code/OIBSIP-temperature-converter.git
 
 
 Open index.html in any browser.
